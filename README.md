@@ -124,11 +124,7 @@ You can also give this repository a star to show more people and they can use th
 
 ## :star2: Star History
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=sanidhyy/game-website&type=Timeline&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=sanidhyy/game-website&type=Timeline" />
-  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=sanidhyy/game-website&type=Timeline" />
-</picture>
+
 </a>
 
 <br />
