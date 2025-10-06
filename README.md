@@ -122,7 +122,6 @@ To deepen your understanding of React.js and Netlify, explore the following reso
 
 You can also give this repository a star to show more people and they can use this repository.
 
-## :star2: Star History
 
 
 </a>
